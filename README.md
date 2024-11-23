@@ -7,8 +7,7 @@
  $ git clone https://github.com/RakshitGupta621/Fitness-App
  $ cd Fitness-App
  $ npm install
- $ expo start
- Press $ i
+ $ npx expo start 
 ```
 
 
